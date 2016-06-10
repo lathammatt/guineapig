@@ -1,0 +1,45 @@
+/*change to blue*/
+/*larger
+border
+rounded
+*/
+
+section:first-child {
+	font-weight: bold;
+}
+
+section:last-child {
+	font-weight: bold;
+	font-style: italic;
+}
+
+button {
+	display:block;
+}
+
+.blue {
+	color:blue;
+}
+
+.hulk {
+	font-size: 5rem;
+	color: green;
+}
+
+.cage {
+	border: 2px dashed black;
+}
+
+.trimmed {
+	border: 2px dashed black;
+	border-radius: 25%;
+}
+
+
+
+
+
+
+
+
+
